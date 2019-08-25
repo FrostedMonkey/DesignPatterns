@@ -1,0 +1,9 @@
+1、开闭原则 com.design.principle.openclose
+2、依赖倒置原则 com.design.principle.dependenceinversion;
+3、单一职责原则 com.design.principle.singleresponsibility;
+4、接口隔离原则  com.design.principle.interfacesegregation;
+5、迪米特原则 com.design.principle.demeter;
+6、简单工厂com.design.pattern.creational.simplefactory;
+7、工厂方法 com.design.pattern.creational.factorymethod;
+8、抽象工厂com.design.pattern.creational.abstractFactory;
+9、建造者模式 com.design.pattern.creational.builder;
